@@ -1,1 +1,1 @@
-# SQL-Database-Project-Home-Tools-Inc.-
+SQL Database Project (Home Tools Inc.) 
